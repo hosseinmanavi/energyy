@@ -1,0 +1,51 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": [
+      "static/chunks/af130_next_dist_compiled_c8a7110d._.js",
+      "static/chunks/af130_next_dist_shared_lib_974b2f2b._.js",
+      "static/chunks/af130_next_dist_client_255e0197._.js",
+      "static/chunks/af130_next_dist_aff9516e._.js",
+      "static/chunks/af130_next_app_fba35a73.js",
+      "static/chunks/[next]_entry_page-loader_ts_9f52220b._.js",
+      "static/chunks/af130_react-dom_ddabf393._.js",
+      "static/chunks/af130_f391c05b._.js",
+      "static/chunks/[root-of-the-server]__163db94a._.js",
+      "static/chunks/energy-app_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-energy-app_pages__app_d5270b3e._.js"
+    ],
+    "/_error": [
+      "static/chunks/af130_next_dist_compiled_c8a7110d._.js",
+      "static/chunks/af130_next_dist_shared_lib_11bcca8c._.js",
+      "static/chunks/af130_next_dist_client_255e0197._.js",
+      "static/chunks/af130_next_dist_536a5c93._.js",
+      "static/chunks/af130_next_error_1aeae968.js",
+      "static/chunks/[next]_entry_page-loader_ts_11087594._.js",
+      "static/chunks/af130_react-dom_ddabf393._.js",
+      "static/chunks/af130_f391c05b._.js",
+      "static/chunks/[root-of-the-server]__9a23ffa8._.js",
+      "static/chunks/energy-app_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-energy-app_pages__error_e13ac696._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/af130_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_d6c4b8c4._.js",
+    "static/chunks/af130_next_dist_compiled_react-dom_5faa8544._.js",
+    "static/chunks/af130_next_dist_compiled_react-server-dom-turbopack_cdcc787a._.js",
+    "static/chunks/af130_next_dist_compiled_next-devtools_index_d2724d5a.js",
+    "static/chunks/af130_next_dist_compiled_bfcb7308._.js",
+    "static/chunks/af130_next_dist_client_e4628d59._.js",
+    "static/chunks/af130_next_dist_9df7fb84._.js",
+    "static/chunks/af130_@swc_helpers_cjs_16ff00b2._.js",
+    "static/chunks/energy-app_a0ff3932._.js",
+    "static/chunks/turbopack-energy-app_dc3d7072._.js"
+  ]
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js"
+];

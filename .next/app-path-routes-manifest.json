@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/blog/page": "/blog",
+  "/callus/page": "/callus",
+  "/carbon/page": "/carbon",
+  "/company/page": "/company",
+  "/culture/page": "/culture",
+  "/electricity/page": "/electricity",
+  "/gas/page": "/gas",
+  "/page": "/",
+  "/products/page": "/products",
+  "/renewable/page": "/renewable",
+  "/signup/page": "/signup",
+  "/support/page": "/support",
+  "/water-saving/page": "/water-saving"
+}

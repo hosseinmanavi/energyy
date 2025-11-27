@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/callus/page": "app/callus/page.js",
+  "/carbon/page": "app/carbon/page.js",
+  "/company/page": "app/company/page.js",
+  "/culture/page": "app/culture/page.js",
+  "/electricity/page": "app/electricity/page.js",
+  "/gas/page": "app/gas/page.js",
+  "/page": "app/page.js",
+  "/renewable/page": "app/renewable/page.js",
+  "/support/page": "app/support/page.js",
+  "/water-saving/page": "app/water-saving/page.js"
+}
